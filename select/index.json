@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "賃貸",
+  "base_artist": "SUSHIBOYS",
+  "createdAt": "2026-02-11T03:52:25.787726Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "賃貸",
+      "artist": "SUSHIBOYS",
+      "has_synced": false,
+      "path": "select/pl_01_賃貸_SUSHIBOYS.txt"
+    }
+  ]
+}
